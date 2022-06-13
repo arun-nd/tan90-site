@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "name":"Rahul",
+            "destination":"Software Engineering",
+            "company":"Navadhiti",
+            "image":"assets/img/team/team-6.jpg"
+        },
+        {
+            "name":"Rahula",
+            "destination":"Wordpress Engineering",
+            "company":"Navadhiti",
+            "image":"assets/img/team/team-6.jpg"
+            
+        },
+        {
+            "name":"Rahula be",
+            "destination":"Testing Engineering",
+            "company":"Navadhiti",
+            "image":"assets/img/team/team-6.jpg"
+        }
+
+    ]
+}
